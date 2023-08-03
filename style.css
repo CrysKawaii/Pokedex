@@ -13,10 +13,26 @@ body {
 h1 {
   text-align: center;
   font-size: 54px;
+  margin-bottom: 0;
 }
 
 h2 {
   margin-bottom: -0.4em;
+}
+
+h3
+{
+  text-align: center;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  margin-top: 0;
+  margin-bottom: 34px;
+  padding-left: 150px;
+}
+
+h5
+{
+  text-align: center;
+  font-size: large;
 }
 
 .pokedex {
